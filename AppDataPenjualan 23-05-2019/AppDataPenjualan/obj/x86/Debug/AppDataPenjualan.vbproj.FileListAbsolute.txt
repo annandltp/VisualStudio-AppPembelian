@@ -1,0 +1,29 @@
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\bin\Debug\AppDataPenjualan.exe
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\bin\Debug\AppDataPenjualan.pdb
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\bin\Debug\AppDataPenjualan.xml
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Data_Barang.resources
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form1.resources
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Menu.resources
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Transaksi_Penjualan.resources
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Resources.resources
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.vbproj.GenerateResource.Cache
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.exe
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.xml
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.pdb
+D:\Anandela TP\23-05-2019 Latihan UAS\AppDataPenjualan\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Data_Pelanggan.resources
+D:\Data\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.exe
+D:\Data\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.xml
+D:\Data\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.pdb
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.exe
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.xml
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.pdb
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\bin\Debug\AppDataPenjualan.exe
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\bin\Debug\AppDataPenjualan.pdb
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\bin\Debug\AppDataPenjualan.xml
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Data_Barang.resources
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Data_Pelanggan.resources
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form1.resources
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Menu.resources
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Form_Transaksi_Penjualan.resources
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.Resources.resources
+D:\Materi Kuliah\Visual Studio\AppDataPenjualan 23-05-2019\AppDataPenjualan\obj\x86\Debug\AppDataPenjualan.vbproj.GenerateResource.Cache
